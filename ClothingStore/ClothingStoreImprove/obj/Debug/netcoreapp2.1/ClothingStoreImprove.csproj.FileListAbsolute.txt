@@ -1,0 +1,11 @@
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\bin\Debug\netcoreapp2.1\ClothingStoreImprove.deps.json
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\bin\Debug\netcoreapp2.1\ClothingStoreImprove.runtimeconfig.json
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\bin\Debug\netcoreapp2.1\ClothingStoreImprove.runtimeconfig.dev.json
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\bin\Debug\netcoreapp2.1\ClothingStoreImprove.dll
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\bin\Debug\netcoreapp2.1\ClothingStoreImprove.pdb
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\obj\Debug\netcoreapp2.1\ClothingStoreImprove.csprojAssemblyReference.cache
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\obj\Debug\netcoreapp2.1\ClothingStoreImprove.csproj.CoreCompileInputs.cache
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\obj\Debug\netcoreapp2.1\ClothingStoreImprove.AssemblyInfoInputs.cache
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\obj\Debug\netcoreapp2.1\ClothingStoreImprove.AssemblyInfo.cs
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\obj\Debug\netcoreapp2.1\ClothingStoreImprove.dll
+D:\Projects\Practice\ClothingStore\ClothingStore\ClothingStoreImprove\obj\Debug\netcoreapp2.1\ClothingStoreImprove.pdb
